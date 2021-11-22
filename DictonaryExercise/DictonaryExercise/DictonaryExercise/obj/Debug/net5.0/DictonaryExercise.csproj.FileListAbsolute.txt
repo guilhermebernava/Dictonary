@@ -1,0 +1,16 @@
+C:\Users\guilh\OneDrive\Documentos\Exercises\DictonaryExercise\DictonaryExercise\DictonaryExercise\bin\Debug\net5.0\DictonaryExercise.exe
+C:\Users\guilh\OneDrive\Documentos\Exercises\DictonaryExercise\DictonaryExercise\DictonaryExercise\bin\Debug\net5.0\DictonaryExercise.deps.json
+C:\Users\guilh\OneDrive\Documentos\Exercises\DictonaryExercise\DictonaryExercise\DictonaryExercise\bin\Debug\net5.0\DictonaryExercise.runtimeconfig.json
+C:\Users\guilh\OneDrive\Documentos\Exercises\DictonaryExercise\DictonaryExercise\DictonaryExercise\bin\Debug\net5.0\DictonaryExercise.runtimeconfig.dev.json
+C:\Users\guilh\OneDrive\Documentos\Exercises\DictonaryExercise\DictonaryExercise\DictonaryExercise\bin\Debug\net5.0\DictonaryExercise.dll
+C:\Users\guilh\OneDrive\Documentos\Exercises\DictonaryExercise\DictonaryExercise\DictonaryExercise\bin\Debug\net5.0\ref\DictonaryExercise.dll
+C:\Users\guilh\OneDrive\Documentos\Exercises\DictonaryExercise\DictonaryExercise\DictonaryExercise\bin\Debug\net5.0\DictonaryExercise.pdb
+C:\Users\guilh\OneDrive\Documentos\Exercises\DictonaryExercise\DictonaryExercise\DictonaryExercise\obj\Debug\net5.0\DictonaryExercise.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Documentos\Exercises\DictonaryExercise\DictonaryExercise\DictonaryExercise\obj\Debug\net5.0\DictonaryExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Documentos\Exercises\DictonaryExercise\DictonaryExercise\DictonaryExercise\obj\Debug\net5.0\DictonaryExercise.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Documentos\Exercises\DictonaryExercise\DictonaryExercise\DictonaryExercise\obj\Debug\net5.0\DictonaryExercise.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Documentos\Exercises\DictonaryExercise\DictonaryExercise\DictonaryExercise\obj\Debug\net5.0\DictonaryExercise.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\Exercises\DictonaryExercise\DictonaryExercise\DictonaryExercise\obj\Debug\net5.0\DictonaryExercise.dll
+C:\Users\guilh\OneDrive\Documentos\Exercises\DictonaryExercise\DictonaryExercise\DictonaryExercise\obj\Debug\net5.0\ref\DictonaryExercise.dll
+C:\Users\guilh\OneDrive\Documentos\Exercises\DictonaryExercise\DictonaryExercise\DictonaryExercise\obj\Debug\net5.0\DictonaryExercise.pdb
+C:\Users\guilh\OneDrive\Documentos\Exercises\DictonaryExercise\DictonaryExercise\DictonaryExercise\obj\Debug\net5.0\DictonaryExercise.genruntimeconfig.cache
